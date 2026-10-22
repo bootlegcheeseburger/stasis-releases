@@ -3,6 +3,16 @@
   <channel>
     <title>Stasis</title>
     <item>
+      <title>0.9.15</title>
+      <pubDate>Thu, 22 Oct 2026 16:25:14 +0000</pubDate>
+      <sparkle:version>212</sparkle:version>
+      <sparkle:shortVersionString>0.9.15</sparkle:shortVersionString>
+      <description sparkle:format="markdown"><![CDATA[Activating Stasis is a party now, and a serial no longer needs Return.
+
+- A complete serial activates as soon as you type or paste it]]></description>
+      <enclosure url="https://github.com/bootlegcheeseburger/stasis-releases/releases/download/0.9.15/Stasis-0.9.15.dmg" length="12496234" type="application/octet-stream" sparkle:edSignature="u57YLvdaukFssyUM6JUlf/UXoS/rtLwKXIaKiL7x5txiAHFw0dfL8xFExBnEaN5g/moE4RaK0Zhbp3LzyAxfDw=="/>
+    </item>
+    <item>
       <title>0.9.14</title>
       <pubDate>Thu, 22 Oct 2026 13:56:38 +0000</pubDate>
       <sparkle:version>205</sparkle:version>
