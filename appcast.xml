@@ -3,6 +3,17 @@
   <channel>
     <title>Stasis</title>
     <item>
+      <title>0.9.14</title>
+      <pubDate>Thu, 22 Oct 2026 13:56:38 +0000</pubDate>
+      <sparkle:version>205</sparkle:version>
+      <sparkle:shortVersionString>0.9.14</sparkle:shortVersionString>
+      <description sparkle:format="markdown"><![CDATA[Stasis remembers your tape.
+
+- The tape you had in comes back when Stasis starts.
+- Click the spinning blc logo to visit our website.]]></description>
+      <enclosure url="https://github.com/bootlegcheeseburger/stasis-releases/releases/download/0.9.14/Stasis-0.9.14.dmg" length="12485032" type="application/octet-stream" sparkle:edSignature="6k/dwKR6Z1Y3Zan0iYaK0VILwSO00DYi3KVi9rhgEOGcMhpVXo2g1xxPxzHtdIideurbdefoYh7SFnHwNssdBQ=="/>
+    </item>
+    <item>
       <title>0.9.13</title>
       <pubDate>Thu, 22 Oct 2026 13:36:42 +0000</pubDate>
       <sparkle:version>202</sparkle:version>
