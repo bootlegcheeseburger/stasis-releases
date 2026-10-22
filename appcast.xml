@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Stasis</title>
+    <item>
+      <title>0.9.13</title>
+      <pubDate>Thu, 22 Oct 2026 13:36:42 +0000</pubDate>
+      <sparkle:version>202</sparkle:version>
+      <sparkle:shortVersionString>0.9.13</sparkle:shortVersionString>
+      <description sparkle:format="markdown"><![CDATA[Stasis now updates itself.
+
+- New versions are offered as they come out.
+- Check for Updates... in the Stasis menu looks right away.]]></description>
+      <enclosure url="https://github.com/bootlegcheeseburger/stasis-releases/releases/download/0.9.13/Stasis-0.9.13.dmg" length="12481630" type="application/octet-stream" sparkle:edSignature="7sAP2Wid2LY+f2qbPPSk21TlgBkrWhYQwoTmbEh4XRmpjrFJG1WXzIXm9gp3bYJtkk50EuL05gIU6SGUF1NqAQ=="/>
+    </item>
+  </channel>
+</rss>
