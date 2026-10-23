@@ -3,6 +3,14 @@
   <channel>
     <title>Stasis</title>
     <item>
+      <title>26.10.0</title>
+      <pubDate>Fri, 23 Oct 2026 20:37:21 +0000</pubDate>
+      <sparkle:version>296</sparkle:version>
+      <sparkle:shortVersionString>26.10.0</sparkle:shortVersionString>
+      <description sparkle:format="markdown"><![CDATA[Stasis v1 RC1: recording on cassette, a tape you can grab, and a faster, smoother app.]]></description>
+      <enclosure url="https://github.com/bootlegcheeseburger/stasis-releases/releases/download/26.10.0/Stasis-26.10.0.dmg" length="12840395" type="application/octet-stream" sparkle:edSignature="91efnXNfiY9Lj9RPkdRxOZGnEGj+q0cRS5IZyTjNaj5OL4ysU/cWS199vnbfEm0zkWsgNGLpdHm7QUTZYHmmDg=="/>
+    </item>
+    <item>
       <title>0.9.16</title>
       <pubDate>Fri, 23 Oct 2026 13:43:00 +0000</pubDate>
       <sparkle:version>239</sparkle:version>
